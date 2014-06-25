@@ -1,0 +1,1 @@
+This project is for components that deal with connecting to SQL Server databases.
